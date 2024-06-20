@@ -16,3 +16,4 @@ OpenAI
 Diffusers
 Torch
 
+The text_to_image_generation1 was having some difficulty in deploying
