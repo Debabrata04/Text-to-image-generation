@@ -1,6 +1,6 @@
 AI Image Generation App
 Introduction
-The AI Image Generation App is a web application that allows users to generate images based on text prompts using two different AI models: OpenAI's DALL-E and Huggingface's Diffusers (Stable Diffusion). The app provides a simple and interactive interface to create stunning images powered by state-of-the-art AI technology.
+The AI Image Generation App is a web application that allows users to generate images based on text prompts using Huggingface's Diffusers (Stable Diffusion). The app provides a simple and interactive interface to create stunning images powered by state-of-the-art AI technology.
 
 Features
 1)Generate images using OpenAI's DALL-E (currently commented out for customization).
